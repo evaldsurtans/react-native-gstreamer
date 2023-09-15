@@ -4,6 +4,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.author       = { 'roshan.milinda' => 'rmilinda@gmail.com' }
   s.license      = 'MIT'
+  s.summary      = 'GStreamer player for React Native'
   s.homepage     = 'https://github.com/evaldsurtans/react-native-gstreamer'
   s.source       = { :git => "https://github.com/evaldsurtans/react-native-gstreamer" }
   s.source_files = 'ios/RCTGstPlayer/*'
