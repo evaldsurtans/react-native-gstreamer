@@ -27,7 +27,7 @@
     },
     "homepage": "https://github.com/Kalyzee/react-native-gstreamer#readme",
     "peerDependencies": {
-        "react": "16.0.0",
+        "react": "^18.1.0",
         "prop-types": "^15.6.0"
     }
 }
